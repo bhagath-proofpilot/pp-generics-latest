@@ -1,1 +1,2 @@
-# pp-generics-latest
+# FEGeneric-React
+FEGeneric module for React Application
